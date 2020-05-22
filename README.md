@@ -1,5 +1,5 @@
 # Real-time-Insights-from-Social-Media-Data
-<p align="center"><img width="250" height="250" src="https://aer.eu/wp-content/uploads/2017/06/twitter-logo-4.png"></p>
+<p align="center"><img width="200" height="200" src="https://aer.eu/wp-content/uploads/2017/06/twitter-logo-4.png"></p>
 
 In this Project, I will use pre-downloaded datasets to understand the nuts and bolts of Twitter Data. In particular, I will do a thorough analysis of a hot-trend.
 **_Warning: some of the tweets in the Twitter datasets contain explicit language._**
